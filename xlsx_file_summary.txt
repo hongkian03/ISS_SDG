@@ -1,0 +1,62 @@
+XLSX file summary
+
+Generated on 2026-03-19 for quick project reference.
+Temporary Excel lock files prefixed with "~$" were ignored.
+
+1. unempl.xlsx
+- SDG 8 / Target 8.5 / Indicator 8.5.2
+- Topic: Unemployment rate, by sex and age - 13th ICLS (%).
+- Geography: Viet Nam (GeoAreaCode 704).
+- Workbook structure: "Table format" (9 data rows), "Record format" (165 data rows), "CodeDescriptions".
+- Time coverage in record data: 2000-2023.
+- Main breakdowns: Age (15+, 15-24, 25+) and Sex (both sexes, female, male, other).
+- Other coding metadata: Nature, Observation Status, Reporting Type, Units.
+
+2. propteach.xlsx
+- SDG 4 / Target 4.c / Indicator 4.c.1
+- Topic: Proportion of teachers with the minimum required qualifications, by education level and sex (%).
+- Geography: Viet Nam (GeoAreaCode 704).
+- Workbook structure: "Table format" (15 data rows), "Record format" (163 data rows), "CodeDescriptions".
+- Time coverage in record data: 2000-2024.
+- Main breakdowns: Education level (pre-primary, primary, lower secondary, secondary, upper secondary) and Sex (both sexes, female, male).
+- Other coding metadata: Nature, Reporting Type, Units.
+
+3. partrateedu.xlsx
+- SDG 4 / Target 4.3 / Indicator 4.3.1
+- Topic: Participation rate in formal and non-formal education and training, by sex (%).
+- Geography: Viet Nam (GeoAreaCode 704).
+- Workbook structure: "Table format" (12 data rows), "Record format" (147 data rows), "CodeDescriptions".
+- Time coverage in record data: 2007-2023.
+- Main breakdowns: Age (15-24, 15-64, 25-54, 55-64) and Sex (both sexes, female, male).
+- Other coding metadata: Nature, Reporting Type, Units.
+
+4. propb50.xlsx
+- SDG 10 / Target 10.2 / Indicator 10.2.1
+- Topic: Proportion of people living below 50 percent of median income (%).
+- Geography: Viet Nam (GeoAreaCode 704).
+- Workbook structure: "Table format" (1 data row), "Record format" (11 data rows), "CodeDescriptions".
+- Time coverage in record data: 2002-2022.
+- Main breakdown: Quantile = B50 (Bottom 50%).
+- Metadata shows this as global monitoring data.
+
+5. neet.xlsx
+- SDG 8 / Target 8.6 / Indicator 8.6.1
+- Topic: Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%).
+- Geography: Viet Nam (GeoAreaCode 704).
+- Workbook structure: "Table format" (3 data rows), "Record format" (48 data rows), "CodeDescriptions".
+- Time coverage in record data: 2007-2023.
+- Main breakdowns: Age (15-24 only) and Sex (both sexes, female, male).
+- Other coding metadata: Nature, Observation Status, Reporting Type, Units.
+
+6. gdp.xlsx
+- SDG 8 / Target 8.1 / Indicator 8.1.1
+- Topic: Annual growth rate of real GDP per capita (%).
+- Geography: Viet Nam (GeoAreaCode 704).
+- Workbook structure: "Table format" (1 data row), "Record format" (24 data rows), "CodeDescriptions".
+- Time coverage in record data: 2000-2023.
+- Main status coding: Observation Status = A (Normal value).
+- Other coding metadata: Nature, Reporting Type, Units.
+
+Cross-file note
+- All six workbooks follow the same overall pattern: a compact "Table format" view, a longer "Record format" time-series table, and a "CodeDescriptions" sheet explaining categorical codes.
+- All datasets are for Viet Nam and appear to be SDG indicator extracts with standardized metadata columns.
