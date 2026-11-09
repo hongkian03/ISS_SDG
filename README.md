@@ -4,7 +4,7 @@ A Python and Streamlit project exploring education, employment, economic growth,
 
 Developed as an individual data analytics project during my internship with the **International Sibling Society (ISS)**, the dashboard brings together **558 source observations**, **eight visualizations**, and **four thematic tabs** to support discussion of development trends and data limitations.
 
-![Annual growth rate of real GDP per capita in Viet Nam, 2000–2023](gdp_growth_vietnam.png)
+**[View the dashboard here!](https://hongkian03-iss.streamlit.app/)**
 
 ## Internship context
 
